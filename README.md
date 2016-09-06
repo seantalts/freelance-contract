@@ -30,13 +30,6 @@ Below is a list of items we’ll need up front from you. Every project is slight
 
 * [LIST OF NEEDS] *includes credentials, access to any necessary services or assets, etc*
 
-####Browser Compatibility
-We have agreed to test our code in IE7+ as well as the latest releases of Firefox, Safari, and Chrome. Additionally we test on mobile Safari and mobile Chrome (iOS devices, Android devices). If you need browsers other than those listed tested, please provide us with a list of the browsers and devices. Testing additional browsers requires more testing time as well as potentially needing to code for that specific browser.
-We code everything with progressive enhancement in mind. This means that modern browsers may show slight differences to older browsers (such as text and box shadows, rounded corners, etc) based on what a browser is able to render. Any changes will not affect the user experience.
-
-####Testing
-We write tests before we write our code, which allows us to make sure that all required functionality is not only present, but works no matter how often we change things around. If your employees or other contractors will be working on the project along side us, we require that they also write tests for all code they produce to make sure we are all on the same page and not stepping on each others toes.
-
 ####Version Control
 Git allows us to keep track of all changes that happen in your application. This way, if a bug is introduced we can quickly find where it was added and roll back to the previous bug-free state while we fix things up! We require code be under version control so we can work on your application with your employees or other contractors without worrying that we may be undoing or overwriting each others changes.
 
